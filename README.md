@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 I'm a **BSc in Computer Science** graduate, passionate about building software and exploring different technologies. 
+🎓 I'm a **BSc in Computer Science** graduate, passionate about building software and exploring different technologies.  
 💻 I'm especially interested in **backend** and **web development**, while remaining curious about exploring new areas.  
 🔗 During my final year at university, I worked as a **research fellow** on the [**Agenda Blockchain IPLeiria**](https://github.com/AgendaBlockchain-IPLeiria) project, in partnership with [**Blockchain PT**](https://blockchain.pt/) and [**BioGHP**](https://www.bioghp.com/).
 
