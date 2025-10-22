@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Technologies & Tools
-- **Web Development:** Vue.js, JavaScript, Laravel (PHP), Tailwind CSS
-- **Databases:** SQL, Oracle SQL, PL/SQL, MySQL, Data Warehousing 
-- **Application Development:** Java, C# / .NET, Jakarta EE, C, Kotlin, Jetpack Compose
+- **Web Development:** Vue.js, JavaScript, Laravel (PHP), Tailwind CSS, RESTful APIs
+- **Databases:** SQL, Oracle SQL, PostgreSQL, PL/SQL, MySQL, Data Warehousing 
+- **Application Development:** Java, JPA(Hibernate), C# / .NET, Jakarta EE, C, Kotlin, Jetpack Compose
 - **Artificial Intelligence:** Python, TensorFlow, Federated Learning (using Flower framework)
 - **Other:** Git, GitHub, Blockchain, JIRA (Atlassian), BitBucket, Katalon Studio, Kubernetes, Docker   
 
